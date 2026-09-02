@@ -64,5 +64,17 @@
         "key": "R9",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "e01c4de33e66e4ca",
+        "key": "R10",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "e01c4de33e66e4ca",
+        "key": "R11",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
