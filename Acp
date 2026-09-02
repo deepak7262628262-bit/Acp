@@ -40,5 +40,11 @@
         "key": "R5",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "6e3912c3f18beec0",
+        "key": "R6",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
