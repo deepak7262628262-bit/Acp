@@ -706,5 +706,11 @@
         "key": "R115",
         "expirydate": "22-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "7f8f4312f147f003",
+        "key": "R116",
+        "expirydate": "02-10-2026",
+        "Allowoffline": false
     }
 ]
