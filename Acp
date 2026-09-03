@@ -130,5 +130,11 @@
         "key": "R21",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "6da553d1b49a0f6e",
+        "key": "R22",
+        "expirydate": "20-09-2026",
+        "Allowoffline": false
     }
 ]
