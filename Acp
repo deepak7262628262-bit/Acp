@@ -166,5 +166,23 @@
         "key": "R27",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "5e16d3ffecb340dd",
+        "key": "R28",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "18a8e4bec5c02390",
+        "key": "R29",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5c4b0fe78614046e",
+        "key": "R30",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
