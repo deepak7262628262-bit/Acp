@@ -256,5 +256,24 @@
         "key": "R42",
         "expirydate": "02-10-2026",
         "Allowoffline": false
-    }
+    },
+{
+        "device_id": "f1e70e4809b4aa46",
+        "key": "R41",
+        "expirydate": "02-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d93ba48ab3b9e4a4",
+        "key": "R44",
+        "expirydate": "02-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "b780ebff705558d7",
+        "key": "R45",
+        "expirydate": "18-09-2026",
+        "Allowoffline": false
+    },
+
 ]
