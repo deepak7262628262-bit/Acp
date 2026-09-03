@@ -196,5 +196,17 @@
         "key": "R32",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "c9d4a297e4c9400c",
+        "key": "R33",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "609abb664fa5a774",
+        "key": "R34",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
