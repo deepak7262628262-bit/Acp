@@ -208,5 +208,23 @@
         "key": "R34",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "7488d381eee3d672",
+        "key": "R35",
+        "expirydate": "25-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "0444e710292b9d7c",
+        "key": "R36",
+        "expirydate": "25-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d9aaef95de76faf5",
+        "key": "R37",
+        "expirydate": "25-09-2026",
+        "Allowoffline": false
     }
 ]
