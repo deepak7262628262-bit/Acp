@@ -820,5 +820,11 @@
         "key": "R134",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "14f386685021e214",
+        "key": "R135",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
     }
 ]
