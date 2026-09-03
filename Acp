@@ -418,6 +418,18 @@
         "key": "R68",
         "expirydate": "18-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "6a075d37673da9f5",
+        "key": "R69",
+        "expirydate": "18-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "1e573452ca9ca06b",
+        "key": "R70",
+        "expirydate": "18-09-2026",
+        "Allowoffline": false
     }
 
 ]
