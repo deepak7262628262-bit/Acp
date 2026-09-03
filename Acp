@@ -562,5 +562,11 @@
         "key": "R92",
         "expirydate": "18-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "3ee9d39aaf8cee65",
+        "key": "R93",
+        "expirydate": "20-09-2026",
+        "Allowoffline": false
     }
 ]
