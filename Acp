@@ -634,5 +634,23 @@
         "key": "R104",
         "expirydate": "03-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "9ab04af0924909b4",
+        "key": "R104",
+        "expirydate": "20-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d4a398295f41cd14",
+        "key": "R105",
+        "expirydate": "20-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "0dc42e16a7415e73",
+        "key": "R106",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
     }
 ]
