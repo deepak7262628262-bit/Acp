@@ -748,5 +748,11 @@
         "key": "R122",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "d24fd50adc96a1be",
+        "key": "R123",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
