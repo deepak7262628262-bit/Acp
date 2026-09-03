@@ -730,5 +730,17 @@
         "key": "R119",
         "expirydate": "26-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f10053d863ad423e",
+        "key": "R120",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "0120a61572937394",
+        "key": "R121",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
