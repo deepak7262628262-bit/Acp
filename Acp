@@ -550,5 +550,17 @@
         "key": "R90",
         "expirydate": "18-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "012355a7a6bd3018",
+        "key": "R91",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "170111b85f8dfe38",
+        "key": "R92",
+        "expirydate": "18-09-2026",
+        "Allowoffline": false
     }
 ]
