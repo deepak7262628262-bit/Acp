@@ -238,5 +238,11 @@
         "key": "R39",
         "expirydate": "25-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "d8c7b8e94173397d",
+        "key": "R40",
+        "expirydate": "02-10-2026",
+        "Allowoffline": false
     }
 ]
