@@ -136,5 +136,29 @@
         "key": "R22",
         "expirydate": "20-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "5e2e772ab9720ac0",
+        "key": "R23",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "41b0890ad42bdfaa",
+        "key": "R24",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5290488ff100aed3",
+        "key": "R25",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d0d3c4485c8a8408",
+        "key": "R26",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
