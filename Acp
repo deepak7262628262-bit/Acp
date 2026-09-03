@@ -718,5 +718,11 @@
         "key": "R117",
         "expirydate": "20-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "b1c2896b7c339c6d",
+        "key": "R118",
+        "expirydate": "26-09-2026",
+        "Allowoffline": false
     }
 ]
