@@ -118,5 +118,11 @@
         "key": "R19",
         "expirydate": "29-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "77299a466f62a4e4",
+        "key": "R20",
+        "expirydate": "03-10-2026",
+        "Allowoffline": false
     }
 ]
