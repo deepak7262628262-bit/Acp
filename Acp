@@ -802,5 +802,11 @@
         "key": "R131",
         "expirydate": "17-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f6855f9c1e0e4b7d",
+        "key": "R132",
+        "expirydate": "17-09-2026",
+        "Allowoffline": false
     }
 ]
