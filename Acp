@@ -874,5 +874,23 @@
         "key": "R143",
         "expirydate": "03-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "931542d1efe6a5a7",
+        "key": "R144",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "765b1843f82be572",
+        "key": "R145",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "ce91112dcbe758ff",
+        "key": "R146",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
