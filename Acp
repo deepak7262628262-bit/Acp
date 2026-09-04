@@ -1102,5 +1102,11 @@
         "key": "D171",
         "expirydate": "01-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "adbc36a85170d8b9",
+        "key": "D172",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
     }
 ]
