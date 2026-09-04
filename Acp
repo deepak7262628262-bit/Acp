@@ -1294,5 +1294,11 @@
         "key": "D202",
         "expirydate": "04-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "53b4da04e36d27c9",
+        "key": "D203",
+        "expirydate": "04-10-2026",
+        "Allowoffline": false
     }
 ]
