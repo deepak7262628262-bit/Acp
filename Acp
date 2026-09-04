@@ -914,7 +914,7 @@
 {
         "device_id": "20c70461dfe866d1",
         "key": "d16",
-        "expirydate": "03-10-2026",
+        "expirydate": "03-09-2026",
         "Allowoffline": false
     },
 {
@@ -939,6 +939,12 @@
         "device_id": "352b6cc5718e078c",
         "key": "R153",
         "expirydate": "28-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8f577505e9490fde",
+        "key": "R154",
+        "expirydate": "03-10-2026",
         "Allowoffline": false
     }
 ]
