@@ -1108,5 +1108,17 @@
         "key": "D172",
         "expirydate": "01-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "1063d9d64ab6084c",
+        "key": "D173",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "f1e70e4809b4aa46",
+        "key": "D174",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 ]
