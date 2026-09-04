@@ -1000,5 +1000,17 @@
         "key": "R164",
         "expirydate": "03-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "bde555d93918b4ca",
+        "key": "R165",
+        "expirydate": "03-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "ea55c2fdef2a1f35",
+        "key": "R166",
+        "expirydate": "03-10-2026",
+        "Allowoffline": false
     }
 ]
