@@ -922,5 +922,23 @@
         "key": "R150",
         "expirydate": "03-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "2ba4275f26195396",
+        "key": "R151",
+        "expirydate": "28-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "2ba4275f26195396",
+        "key": "R152",
+        "expirydate": "28-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "352b6cc5718e078c",
+        "key": "R153",
+        "expirydate": "28-09-2026",
+        "Allowoffline": false
     }
 ]
