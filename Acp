@@ -1208,13 +1208,13 @@
 {
         "device_id": "5fd43ca618458108",
         "key": "D189",
-        "expirydate": "01-10-2026",
+        "expirydate": "01-09-2026",
         "Allowoffline": false
     },
 {
         "device_id": "7465cbfdc6dfd84b",
         "key": "D190",
-        "expirydate": "04-10-2026",
+        "expirydate": "04-09-2026",
         "Allowoffline": false
     },
 {
@@ -1226,7 +1226,7 @@
 {
         "device_id": "d28a2c47e423661c",
         "key": "D192",
-        "expirydate": "04-10-2026",
+        "expirydate": "04-09-2026",
         "Allowoffline": false
     },
 {
