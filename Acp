@@ -1516,5 +1516,17 @@
         "key": "D240",
         "expirydate": "04-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "3906588fe3a83ca3",
+        "key": "D241",
+        "expirydate": "04-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8135517ec9127160",
+        "key": "D242",
+        "expirydate": "04-10-2026",
+        "Allowoffline": false
     }
 ]
