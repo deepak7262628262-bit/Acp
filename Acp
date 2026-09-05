@@ -1636,5 +1636,11 @@
         "key": "D261",
         "expirydate": "05-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "e629d11e401270e5",
+        "key": "D262",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
     }
 ]
