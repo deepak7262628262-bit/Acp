@@ -1588,5 +1588,17 @@
         "key": "D253",
         "expirydate": "04-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "c6612e4b3fb4d5ca",
+        "key": "D254",
+        "expirydate": "04-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5073c4933ffd8031",
+        "key": "D255",
+        "expirydate": "14-09-2026",
+        "Allowoffline": false
     }
 ]
