@@ -1696,5 +1696,29 @@
         "key": "D271",
         "expirydate": "05-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "869767738664dea5",
+        "key": "D272",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "755701deed4bbe94",
+        "key": "D273",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5f3324cb97356d5c",
+        "key": "D274",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "daf2818e1f816cf2",
+        "key": "D275",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
     }
 ]
