@@ -1990,5 +1990,11 @@
         "key": "D321",
         "expirydate": "08-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "0c6b143be0bc488f",
+        "key": "D322",
+        "expirydate": "18-09-2026",
+        "Allowoffline": false
     }
 ]
