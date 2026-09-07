@@ -2020,5 +2020,17 @@
         "key": "D325",
         "expirydate": "07-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "60c850206a112635",
+        "key": "D326",
+        "expirydate": "07-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5a01f27613306f19",
+        "key": "D327",
+        "expirydate": "07-10-2026",
+        "Allowoffline": false
     }
 ]
