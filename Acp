@@ -1978,5 +1978,17 @@
         "key": "D319",
         "expirydate": "08-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "490277acc287af3b",
+        "key": "D320",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "a66502ba6cf4db91",
+        "key": "D321",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
     }
 ]
