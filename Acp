@@ -1930,5 +1930,17 @@
         "key": "D311",
         "expirydate": "08-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "85feaff21da3f5fd",
+        "key": "D312",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "3a4dac75324bdf96",
+        "key": "D313",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
     }
 ]
