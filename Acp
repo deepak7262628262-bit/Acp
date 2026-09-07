@@ -1966,5 +1966,17 @@
         "key": "D317",
         "expirydate": "08-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "1752632595a8bcd5",
+        "key": "D318",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "6516c4ae57d96f29",
+        "key": "D319",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
     }
 ]
