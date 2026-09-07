@@ -1918,5 +1918,17 @@
         "key": "D309",
         "expirydate": "08-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "035f849bbec085d1",
+        "key": "D310",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "3db9447aee63a13f",
+        "key": "D311",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
     }
 ]
