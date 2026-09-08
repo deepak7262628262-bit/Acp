@@ -2170,5 +2170,11 @@
         "key": "D349",
         "expirydate": "01-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "3394160feaaf95e6",
+        "key": "D350",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
     }
 ]
