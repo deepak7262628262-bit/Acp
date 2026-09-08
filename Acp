@@ -2158,5 +2158,17 @@
         "key": "D347",
         "expirydate": "07-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "8b0d461bf5944117",
+        "key": "D348",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8bca99fee7d0dd2b",
+        "key": "D349",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
     }
 ]
