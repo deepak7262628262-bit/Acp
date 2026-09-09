@@ -2260,5 +2260,17 @@
         "key": "D364",
         "expirydate": "08-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "99f572c28d1ca717",
+        "key": "D365",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "1413a065810cdcad",
+        "key": "D366",
+        "expirydate": "08-10-2026",
+        "Allowoffline": false
     }
 ]
