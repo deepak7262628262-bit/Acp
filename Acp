@@ -2338,5 +2338,11 @@
         "key": "D377",
         "expirydate": "17-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "5ef46674a0a3ea25",
+        "key": "D378",
+        "expirydate": "10-10-2026",
+        "Allowoffline": false
     }
 ]
