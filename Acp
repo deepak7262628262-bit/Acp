@@ -2386,5 +2386,11 @@
         "key": "D386",
         "expirydate": "11-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "e2cdc091052b9da4",
+        "key": "D387",
+        "expirydate": "11-10-2026",
+        "Allowoffline": false
     }
 ]
