@@ -2404,5 +2404,11 @@
         "key": "D389",
         "expirydate": "11-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f7e25b45eaa05d6c",
+        "key": "D390",
+        "expirydate": "11-10-2026",
+        "Allowoffline": false
     }
 ]
