@@ -1322,7 +1322,7 @@
 {
         "device_id": "7465cbfdc6dfd84b",
         "key": "D207",
-        "expirydate": "14-09-2026",
+        "expirydate": "04-10-2026",
         "Allowoffline": false
     },
 {
@@ -2606,6 +2606,12 @@
 {
         "device_id": "1b1bf33a7cc9bf84",
         "key": "D423",
+        "expirydate": "13-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "a517bd44e14cef0b",
+        "key": "D424",
         "expirydate": "13-10-2026",
         "Allowoffline": false
     }
