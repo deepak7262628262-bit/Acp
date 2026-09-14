@@ -2644,5 +2644,11 @@
         "key": "D429",
         "expirydate": "13-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "b2bdc50304d70596",
+        "key": "D430",
+        "expirydate": "13-10-2026",
+        "Allowoffline": false
     }
 ]
