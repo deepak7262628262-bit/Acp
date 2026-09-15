@@ -2662,5 +2662,11 @@
         "key": "D432",
         "expirydate": "13-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "6588fe505fcdff9c",
+        "key": "D433",
+        "expirydate": "13-10-2026",
+        "Allowoffline": false
     }
 ]
