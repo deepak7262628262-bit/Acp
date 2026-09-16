@@ -2872,5 +2872,17 @@
         "key": "D467",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "bf41ddd060adec5d",
+        "key": "D468",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "91aaddbb1465c5e3",
+        "key": "D469",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     }
 ]
