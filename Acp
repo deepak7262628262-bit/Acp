@@ -2950,5 +2950,11 @@
         "key": "D480",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "32edcf78dacba9ff",
+        "key": "D481",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     }
 ]
