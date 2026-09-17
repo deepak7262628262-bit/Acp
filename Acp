@@ -2968,5 +2968,11 @@
         "key": "D483",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "73fe87fafb1153f2",
+        "key": "D484",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     }
 ]
