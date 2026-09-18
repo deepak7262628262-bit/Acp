@@ -3016,5 +3016,17 @@
         "key": "D491",
         "expirydate": "18-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "4670aa19e7367744",
+        "key": "D492",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "6407544865b5fd11",
+        "key": "D493",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
     }
 ]
