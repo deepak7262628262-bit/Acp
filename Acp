@@ -296,7 +296,7 @@
 {
         "device_id": "66b46c2f5696b528",
         "key": "R48",
-        "expirydate": "18-09-2026",
+        "expirydate": "30-09-2026",
         "Allowoffline": false
     },
 {
@@ -2978,6 +2978,18 @@
 {
         "device_id": "ff7d6f107ca8c00b",
         "key": "D485",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "e46bdc6a9c38babc",
+        "key": "D486",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "58bf5fe939359f15",
+        "key": "D487",
         "expirydate": "18-10-2026",
         "Allowoffline": false
     }
