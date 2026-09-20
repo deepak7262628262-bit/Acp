@@ -1082,7 +1082,7 @@
 {
         "device_id": "557935e4babe679a",
         "key": "D168",
-        "expirydate": "17-09-2026",
+        "expirydate": "03-10-2026",
         "Allowoffline": false
     },
 {
@@ -3081,6 +3081,12 @@
         "device_id": "94d7f599bf19251d",
         "key": "D502",
         "expirydate": "21-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d6132c754703465b",
+        "key": "D503",
+        "expirydate": "20-10-2026",
         "Allowoffline": false
     }
 ]
