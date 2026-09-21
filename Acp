@@ -596,7 +596,7 @@
 {
         "device_id": "5dc00c00fce54d74",
         "key": "R98",
-        "expirydate": "20-09-2026",
+        "expirydate": "30-09-2026",
         "Allowoffline": false
     },
 {
@@ -1452,7 +1452,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "31547959313e77aa",
+        "device_id": "45af18d6d9871aca",
         "key": "D229",
         "expirydate": "05-10-2026",
         "Allowoffline": false
