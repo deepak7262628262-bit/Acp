@@ -3172,5 +3172,11 @@
         "key": "D516",
         "expirydate": "22-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "4eb200cc52ed885d",
+        "key": "D517",
+        "expirydate": "22-10-2026",
+        "Allowoffline": false
     }
 ]
