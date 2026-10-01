@@ -3372,6 +3372,12 @@
         "Allowoffline": false
     },
 {
+        "device_id": "f6855f9c1e0e4b7d",
+        "key": "D550",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+    }
+{
         "device_id": "68d050f511458999",
         "key": "D551",
         "expirydate": "30-10-2026",
