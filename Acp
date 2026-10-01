@@ -740,7 +740,7 @@
 {
         "device_id": "0120a61572937394",
         "key": "R121",
-        "expirydate": "30-09-2026",
+        "expirydate": "30-10-2026",
         "Allowoffline": false
     },
 {
@@ -3368,6 +3368,12 @@
 {
         "device_id": "403e4ce0e86e2a5e",
         "key": "D549",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "f6855f9c1e0e4b7d",
+        "key": "D550",
         "expirydate": "30-10-2026",
         "Allowoffline": false
     }
