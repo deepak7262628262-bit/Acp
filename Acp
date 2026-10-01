@@ -3400,5 +3400,11 @@
         "key": "D554",
         "expirydate": "30-10-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "3f4a17d80b61df7e",
+        "key": "D555",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
     }
 ]
