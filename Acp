@@ -3448,5 +3448,11 @@
         "key": "D561",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "617fdd1c3e28a0dc",
+        "key": "D562",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
