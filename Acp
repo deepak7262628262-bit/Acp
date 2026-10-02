@@ -3508,5 +3508,11 @@
         "key": "D571",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "341c67ffcd47d924",
+        "key": "D572",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
