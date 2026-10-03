@@ -3586,5 +3586,17 @@
         "key": "D584",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "5a86ab1efd34646b",
+        "key": "D585",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "dd34a0f46fa20fa9",
+        "key": "D586",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
