@@ -626,7 +626,7 @@
 {
         "device_id": "bc3db7c2f0487f43",
         "key": "R102",
-        "expirydate": "30-09-2026",
+        "expirydate": "03-11-2026",
         "Allowoffline": false
     },
 {
@@ -3620,6 +3620,12 @@
 {
         "device_id": "c3d295068dfc32fa",
         "key": "D590",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "ad1cb82af6a446f7",
+        "key": "D591",
         "expirydate": "02-11-2026",
         "Allowoffline": false
     }
