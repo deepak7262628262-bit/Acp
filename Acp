@@ -3348,6 +3348,12 @@
         "Allowoffline": false
     },
 {
+        "device_id": "e01c4de33e66e4ca",
+        "key": "d544",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+    },
+{
         "device_id": "5f20184a1c34c084",
         "key": "D545",
         "expirydate": "30-10-2026",
