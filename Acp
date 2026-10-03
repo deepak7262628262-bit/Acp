@@ -3610,5 +3610,17 @@
         "key": "D588",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f59e1def0d68c1eb",
+        "key": "D589",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "c3d295068dfc32fa",
+        "key": "D590",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
