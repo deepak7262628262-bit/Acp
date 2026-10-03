@@ -3676,5 +3676,17 @@
         "key": "D599",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "967c864d7553b347",
+        "key": "D600",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "3963344e5c481783",
+        "key": "D601",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
