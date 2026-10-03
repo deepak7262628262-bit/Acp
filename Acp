@@ -3562,5 +3562,23 @@
         "key": "D580",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "ea55c2fdef2a1f35",
+        "key": "D581",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5d1c6af153a07b29",
+        "key": "D582",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "3e7d6e7ca310700d",
+        "key": "D583",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
