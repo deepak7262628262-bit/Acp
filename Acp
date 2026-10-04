@@ -1202,7 +1202,7 @@
 {
         "device_id": "b2e4a4fb4f7d57f8",
         "key": "D187",
-        "expirydate": "04-10-2026",
+        "expirydate": "04-11-2026",
         "Allowoffline": false
     },
 {
@@ -3534,7 +3534,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "2854af53a57581c1",
+        "device_id": "cb5cdc6f150c73db",
         "key": "D575",
         "expirydate": "02-11-2026",
         "Allowoffline": false
@@ -3800,6 +3800,24 @@
 {
         "device_id": "78f5b6481b9c83a1",
         "key": "D619",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8f84088f9c52199b",
+        "key": "D620",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "63e6636f72580c03",
+        "key": "D621",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "f3d109377a12a022",
+        "key": "D622",
         "expirydate": "04-11-2026",
         "Allowoffline": false
     }
