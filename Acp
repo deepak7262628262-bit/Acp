@@ -3712,5 +3712,17 @@
         "key": "D604",
         "expirydate": "02-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "2f628c249283720f",
+        "key": "D605",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "5290488ff100aed3",
+        "key": "D606",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     }
 ]
