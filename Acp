@@ -4042,5 +4042,11 @@
         "key": "D661",
         "expirydate": "04-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "0d9da72e1c26f901",
+        "key": "D662",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
     }
 ]
