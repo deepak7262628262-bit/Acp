@@ -4087,7 +4087,13 @@
     },
 {
         "device_id": "ec00a3f8fa3026e7",
-        "key": "D535",
+        "key": "R535",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "a29db58405688bf5",
+        "key": "R536",
         "expirydate": "04-11-2026",
         "Allowoffline": false
     }
