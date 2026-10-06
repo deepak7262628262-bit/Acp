@@ -4132,5 +4132,17 @@
         "key": "D673",
         "expirydate": "04-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "332f881f9ab1b0a4",
+        "key": "D674",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d506a09a1e5a32c8",
+        "key": "D675",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
     }
 ]
