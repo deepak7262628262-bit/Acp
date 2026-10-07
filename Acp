@@ -2114,7 +2114,7 @@
 {
         "device_id": "9dc8506e57ac3ac7",
         "key": "D339",
-        "expirydate": "07-10-2026",
+        "expirydate": "07-11-2026",
         "Allowoffline": false
     },
 {
@@ -4202,6 +4202,12 @@
 {
         "device_id": "f19daedf3857dd26",
         "key": "D685",
+        "expirydate": "07-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "0ea375c0040debb9",
+        "key": "D686",
         "expirydate": "07-11-2026",
         "Allowoffline": false
     }
