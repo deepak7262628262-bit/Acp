@@ -1956,15 +1956,15 @@
         "Allowoffline": false
     },
 {
-        "device_id": "d6132c754703465b",
+        "device_id": "b6249998af810ba7",
         "key": "D314",
-        "expirydate": "19-09-2026",
+        "expirydate": "08-11-2026",
         "Allowoffline": false
     },
 {
-        "device_id": "09b0f9d4b5a9c1db",
+        "device_id": "2f36337ec744ddcd",
         "key": "D315",
-        "expirydate": "19-09-2026",
+        "expirydate": "08-11-2026",
         "Allowoffline": false
     },
 {
@@ -1976,7 +1976,7 @@
 {
         "device_id": "14e27277975fd44e",
         "key": "D317",
-        "expirydate": "08-10-2026",
+        "expirydate": "08-11-2026",
         "Allowoffline": false
     },
 {
