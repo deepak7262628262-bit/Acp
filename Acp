@@ -4324,5 +4324,11 @@
         "key": "d604",
         "expirydate": "07-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "a849c423f1125994",
+        "key": "d605",
+        "expirydate": "07-11-2026",
+        "Allowoffline": false
     }
 ]
