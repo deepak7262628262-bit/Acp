@@ -4420,5 +4420,11 @@
         "key": "d620",
         "expirydate": "10-11-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f23ec4ac785da50c",
+        "key": "d621",
+        "expirydate": "10-11-2026",
+        "Allowoffline": false
     }
 ]
