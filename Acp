@@ -2810,7 +2810,7 @@
 {
         "device_id": "13452ea8923644be",
         "key": "D455",
-        "expirydate": "15-10-2026",
+        "expirydate": "15-11-2026",
         "Allowoffline": false
     },
 {
@@ -4490,6 +4490,12 @@
 {
         "device_id": "3cc3adc2b730932b",
         "key": "d632",
+        "expirydate": "13-11-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "9e4a5eca7594bb72",
+        "key": "d633",
         "expirydate": "13-11-2026",
         "Allowoffline": false
     }
