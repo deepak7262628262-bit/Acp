@@ -2160,7 +2160,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "37d262d4a45b7c28",
+        "device_id": "9e64f64dca9b6ccf",
         "key": "D347",
         "expirydate": "29-11-2026",
         "Allowoffline": false
@@ -4652,6 +4652,12 @@
 {
         "device_id": "53222526dc948524",
         "key": "d659",
+        "expirydate": "12-12-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "b5699443294595d1",
+        "key": "d660",
         "expirydate": "12-12-2026",
         "Allowoffline": false
     }
