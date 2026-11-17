@@ -4906,5 +4906,11 @@
         "key": "d700",
         "expirydate": "14-12-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "8748c75956eb7706",
+        "key": "d701",
+        "expirydate": "14-12-2026",
+        "Allowoffline": false
     }
 ]
