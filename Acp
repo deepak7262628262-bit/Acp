@@ -4840,5 +4840,11 @@
         "key": "d691",
         "expirydate": "14-12-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "69a1c16e51474d0d",
+        "key": "d692",
+        "expirydate": "14-12-2026",
+        "Allowoffline": false
     }
 ]
